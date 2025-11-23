@@ -1,0 +1,5 @@
+{
+  "name": "RestoFlow AI",
+  "description": "SaaS de gestión de restaurantes potenciado por IA. Incluye gestión de pedidos, menú inteligente y análisis de negocios con Gemini.",
+  "requestFramePermissions": []
+}
